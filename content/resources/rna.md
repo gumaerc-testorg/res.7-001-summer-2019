@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/cdde87d1acb8d90550e37d1c95a73c6f_RNA.jpg
+file: /media/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/cdde87d1acb8d90550e37d1c95a73c6f_RNA.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: RNA.jpg
 uid: cdde87d1-acb8-d905-50e3-7d1c95a73c6f

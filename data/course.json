@@ -33,7 +33,10 @@
     "content": "ceda5518-13e8-112f-3e4a-bfb9fe85c90a",
     "website": "res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019"
   },
-  "learning_resource_types": [],
-  "site_uid": "8a13bc1a-cf24-4686-a7b8-da9c4a77a8a0",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "6d200791-0aaf-42c2-9b41-3efd842a32ce",
+  "site_short_id": "res.7-001-summer-2019",
   "title": "Course Metadata"
 }

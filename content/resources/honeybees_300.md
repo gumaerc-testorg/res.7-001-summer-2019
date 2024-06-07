@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/7d81b47c40a6cea051dc847c132ea2bd_honeybees_300.jpg
+file_size: 165904
 file_type: image/jpeg
 image_metadata:
   caption: ''

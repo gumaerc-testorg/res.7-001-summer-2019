@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/ceda551813e8112f3e4abfb9fe85c90a_RES.7-001sum19-th.jpg
+file_size: 26665
 file_type: image/jpeg
 image_metadata:
   caption: The phospholopid bilayer with cholesterol and integral membrane proteins

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/e35425216bb214e5957f750b4354a642_melanistic_600.png
+file: /ol-ocw-studio-app/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/e35425216bb214e5957f750b4354a642_melanistic_600.png
 file_size: 316148
 file_type: image/png
 image_metadata:

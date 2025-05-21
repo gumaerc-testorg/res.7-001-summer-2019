@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/602d1d0521dfc9b114f307130eef338d_zebrafish_600.jpg
+file: /courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/602d1d0521dfc9b114f307130eef338d_zebrafish_600.jpg
 file_size: 101455
 file_type: image/jpeg
 image_metadata:

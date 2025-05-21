@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/cdde87d1acb8d90550e37d1c95a73c6f_RNA.jpg
+file: /courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/cdde87d1acb8d90550e37d1c95a73c6f_RNA.jpg
 file_size: 130038
 file_type: image/jpeg
 image_metadata:
